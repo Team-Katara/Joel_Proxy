@@ -1,0 +1,3 @@
+[submodule "Shraya-Service"]
+	path = Shraya-Service
+	url = https://github.com/Team-Katara/Shraya-Service.git
